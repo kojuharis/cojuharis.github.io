@@ -13,7 +13,7 @@ author:
 # Build settings
 markdown: kramdown
 highlighter: rouge
-theme: minima
+theme: jekyll-theme-slate
 
 # Jekyll plugins
 plugins:
